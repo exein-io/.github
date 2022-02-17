@@ -1,6 +1,6 @@
 ## Hey, welcome to Exein 👋
 
-![Fleet of devices protected by Cosmo](/images/github-cover.png)
+![Fleet of Exein devices](/images/github-cover-2.png)
 
 At **Exein**, we are building the next-gen open source framework for the **Security of Things**, and we are on a mission to build it **open source**.
 
