@@ -15,3 +15,6 @@ There are many ways Exein can be used to make your devices more secure. Here are
 ### 👓 Next steps
 
 We are about to open source our internal roadmap to that you can see where **Exein** is going, but in the meantime [let us know](https://github.com/Exein-io/community/discussions) what you would like to see built next. ✨ Oh, and by the way, if you are passionate about building a radically more secure IoT landscape and you love open source, [join us](https://linkedin.com/company/exein) 🙌.
+
+
+WE STAND WITH UKRAINE 🇺🇦
