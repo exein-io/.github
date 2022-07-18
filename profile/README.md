@@ -9,7 +9,7 @@ At **Exein**, we are building the next-gen open source framework for the **Secur
 There are many ways Exein can be used to make your devices more secure. Here are some to get you started:
 
 - [Cosmo](https://cosmo.exein.io/) - Advanced, hackable device **security analysis** tool.
-- [Pulsar](https://exein.io/pulsar) - Blazing fast **runtime protection** for IoT devices and containers.
+- [Pulsar](https://github.com/Exein-io/pulsar) - Blazing fast, eBPF-based **runtime security** for embedded devices.
 - [Kepler](https://github.com/Exein-io/kepler) - Open Source **CVE search engine** written entirely in Rust.
 
 ### 👓 Next steps
