@@ -1,20 +1,21 @@
-## Hey, welcome to Exein 👋
+## Welcome to Exein 
 
-![Fleet of Exein devices](/images/github-cover-2.png)
+![Fleet of Exein devices](/images/github-cover-3.0.jpg)
 
-At **Exein**, we are building the next-gen open source framework for the **Security of Things**, and we are on a mission to build it **open source**.
+At **Exein**, we are building the next-gen framework for the **Security of Things**, and we are on a mission to build it **open source**.
 
-### 🦦 Ecosystem
+### Ecosystem
 
 There are many ways Exein can be used to make your devices more secure. Here are some to get you started:
 
-- [Cosmo](https://cosmo.exein.io/) - Advanced, hackable device **security analysis** tool.
 - [Pulsar](https://github.com/Exein-io/pulsar) - Blazing fast, eBPF-based **runtime security** for embedded devices.
+- [Cosmo](https://github.com/Exein-io/cosmo-cli) - Advanced, hackable firmware image **security posture analysis** tool.
 - [Kepler](https://github.com/Exein-io/kepler) - Open Source **CVE search engine** written entirely in Rust.
 
-### 👓 Next steps
+### Next steps
 
-You can take a look at our [official roadmap](https://github.com/orgs/Exein-io/projects/9) to find out where **Exein** is going, and [let us know](https://github.com/Exein-io/community/discussions) what you would like to see built next. ✨ Oh, and by the way, if you are passionate about building a radically more secure IoT landscape and you love open source, [join us](https://linkedin.com/company/exein) 🙌.
+If you would like what we are up to and would like to get more involved, here are a few options:
 
-
-WE STAND WITH UKRAINE 🇺🇦
+- Engage with us through our [community discussions](https://github.com/Exein-io/community/discussions) here on GitHub and let us know what you would like to see built next. 
+- Check out our [official blog](https://blog.exein.io), where we regularly share insights about our technology and stories about our journey.
+- If you are passionate about building a radically more secure IoT landscape and you love open source, [join us](https://linkedin.com/company/exein).
