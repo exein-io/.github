@@ -1,6 +1,6 @@
 ## Welcome to Exein 
 
-![Fleet of Exein devices](/images/github-cover-3.0.jpg)
+![Fleet of Exein devices](/images/github-cover-4.png)
 
 At **Exein**, we are building the next-gen framework for the **Security of Things**, and we are on a mission to build it **open source**.
 
@@ -9,7 +9,6 @@ At **Exein**, we are building the next-gen framework for the **Security of Thing
 There are many ways Exein can be used to make your devices more secure. Here are some to get you started:
 
 - [Pulsar](https://github.com/Exein-io/pulsar) - Blazing fast, eBPF-based **runtime security** for embedded devices.
-- [Cosmo](https://github.com/Exein-io/cosmo-cli) - Advanced, hackable firmware image **security posture analysis** tool.
 - [Kepler](https://github.com/Exein-io/kepler) - Open Source **CVE search engine** written entirely in Rust.
 
 ### Next steps
