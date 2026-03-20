@@ -1,6 +1,6 @@
 ## Welcome to Exein 
 
-![Fleet of Exein devices](/images/github-cover-4.1.png)
+![Fleet of Exein devices](/images/github-cover-4.2.png)
 
 At **Exein**, we are building the next-gen framework for the **Security of Things**, and we are on a mission to build it **open source**.
 
